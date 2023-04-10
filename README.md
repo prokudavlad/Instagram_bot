@@ -1,2 +1,2 @@
 # Instagram_bot
-Telegram bot in Python
+Telegram bot in "Python"
